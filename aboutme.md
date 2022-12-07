@@ -1,16 +1,9 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Zecheng (Victor) Wang. I am a senior student at NYU Shanghai majoring in computer science and data science. I'm currently doing research with [Prof. Yik-cheung (Wilson) Tam](https://shanghai.nyu.edu/academics/faculty/directory/yik-cheung-wilson-tam) and [Prof. Keith Ross](https://sites.google.com/nyu.edu/keithross/).
+I'm interested in many topics in machine learning while particularly focusing on natural language processing. Specifically, I want to understand how we can capture the semantics underlying natural language to achieve generalized language models, which can be extended to other modalities. I have worked on dialogue systems, language modeling, and machine translation. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
