@@ -1,7 +1,7 @@
 ---
 layout: page
 title: My Publications
-subtitle: My list of publications can also be found at [Google Scholar](https://scholar.google.com/citations?user=z7ZFaCgAAAAJ&hl=en&oi=sra).
+subtitle: My list of publications can also be found at Google Scholar by clicking the little icon at the bottom.
 ---
 
 Z. Wang, Y. -C. Tam, "Suffix Retrieval-Augmented Language Modeling," Pre-print submitted to International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2023.
