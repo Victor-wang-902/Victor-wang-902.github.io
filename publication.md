@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: My Publications
 subtitle: My list of publications can also be found at Google Scholar by clicking the little icon at the bottom.
 ---
