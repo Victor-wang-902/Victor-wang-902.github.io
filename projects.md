@@ -4,7 +4,7 @@ title: My Projects
 subtitle: Here is a list of projects, finished or ongoing.
 ---
 
-# Expanding SUffix REtrieval-Augmented Language Modeling (SUREALM) on Domain Adaptation and Controllable Generation, Oct. 2022 - present. [<img src="workflow_new.png" width="150" height="200" align="right" />](workflow_new.png)
+# Expanding SUffix REtrieval-Augmented Language Modeling (SUREALM) on Domain Adaptation and Controllable Generation, Oct. 2022 - present. [<img src="{{ 'workflow_new.png' | relative_url }} width="150" height="200" align="right" />](workflow_new.png)
 We continue to work on [SUREALM](https://arxiv.org/abs/2211.03053) on its potential for domain adaptation and generation controllability. We are investigating if controlling the external knowledge bases can result in robust transferability between domains with factually correct generation.\
 [[code]](https://github.com/Victor-wang-902/SUREALM)
 
