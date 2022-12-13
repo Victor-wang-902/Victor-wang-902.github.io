@@ -20,8 +20,8 @@ author: Victor Wang
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
   Publications: "publication"
+  Projects: "projects"
 
 ################
 # --- Logo --- #
