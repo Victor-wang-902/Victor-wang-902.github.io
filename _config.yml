@@ -20,6 +20,7 @@ author: Victor Wang
 ###############################################
 
 navbar-links:
+  Home: "index"
   Publications: "publication"
   Projects: "projects"
 
