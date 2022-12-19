@@ -9,7 +9,8 @@ We continue to work on [SUREALM](https://arxiv.org/abs/2211.03053) on its potent
 [[code]](https://github.com/Victor-wang-902/SUREALM)
 
 # Simultaneous Machine Translation with Deep Reinforcement Learning, June 2022 - present.
-We aim to derive a learning algorithm for latency control policy in simultaneous machine translation contexts using reinforcement learning.
+We aim to derive a learning algorithm for latency control policy in simultaneous machine translation contexts using reinforcement learning. Currently, we have developed an RL environment incorporating online machine translation models in which we can train a latency control agent with various RL algorithms.\
+[[report]](Zecheng_wang_capstonpdf.pdf)
 
 # AI for Scientific Research: Bio-treatment, March 2022 - present.
 Predict vaccination response of patients using machine learning algorithms. A comprehensive pipeline including data pre-processing, feature engineering, cross validation, training, and evaluation is designed and implemented to provide the collaborator working in Bio-medicine with highly flexible and accessible tools with simple interfaces. Code is yet to be publicized.
