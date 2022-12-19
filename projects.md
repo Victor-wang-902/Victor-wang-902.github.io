@@ -8,7 +8,7 @@ subtitle: Here is a list of unpublished projects, finished or ongoing.
 We continue to work on [SUREALM](https://arxiv.org/abs/2211.03053) on its potential for domain adaptation and generation controllability. We are investigating if controlling the external knowledge bases can result in robust transferability between domains with factually correct generation.\
 [[code]](https://github.com/Victor-wang-902/SUREALM)
 
-# Simultaneous Machine Translation with Deep Reinforcement Learning, June 2022 - present.
+# Simultaneous Machine Translation with Deep Reinforcement Learning, June 2022 - present. <img src="/capstone_workflow.png" width="150" height="200" align="right" />
 We aim to derive a learning algorithm for latency control policy in simultaneous machine translation contexts using reinforcement learning. Currently, we have developed an RL environment incorporating online machine translation models in which we can train a latency control agent with various RL algorithms.\
 [[report]](Zecheng_wang_capstonepdf.pdf)
 
