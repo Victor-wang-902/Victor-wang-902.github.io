@@ -4,7 +4,7 @@ title: My Publications
 subtitle: My list of publications can also be found at Google Scholar by clicking the little icon at the bottom.
 ---
 
-Z. Wang, Y. -C. Tam, "Suffix Retrieval-Augmented Language Modeling," Pre-print submitted to International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2023.
+Z. Wang, Y. -C. Tam, "Suffix Retrieval-Augmented Language Modeling," International Conference on Acoustics, Speech and Signal Processing (ICASSP) (Accepted), 2023.
 [[paper]](https://arxiv.org/abs/2211.03053) [[code]](https://github.com/Victor-wang-902/SUREALM)
 
 Y. -C. Tam, J. Xu, J. Zou, Z. Wang, T. Liao and S. Yuan, "Robust Unstructured Knowledge Access in Conversational Dialogue with ASR Errors," International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2022, pp. 6702-6706.
