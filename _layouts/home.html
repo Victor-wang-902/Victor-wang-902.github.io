@@ -45,9 +45,9 @@ layout: page
           </h3>
         {% endif %}
       </a>
-      {% if post.description %}
-        <div class="post-description">
-          {{ post.description | markdownify }}
+      {% if post.subtitle %}
+        <div class="post-subtitle">
+          {{ post.subtitle | markdownify }}
         </div>
       {% endif %}
       <p class="post-meta">
