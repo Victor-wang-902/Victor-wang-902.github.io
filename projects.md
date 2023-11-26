@@ -13,7 +13,7 @@ We derived a learning algorithm for latency control in simultaneous machine tran
 [[report]](Zecheng_wang_capstonepdf.pdf)
 
 # AI for Scientific Research: Bio-treatment, May 2022.
-We predicted vaccination response of patients using machine learning algorithms. A comprehensive pipeline including data pre-processing, feature engineering, cross validation, training, and evaluation is designed and implemented to provide the collaborator working in Bio-medicine with highly flexible and accessible tools with simple interfaces.
+We predicted vaccination response of patients using machine learning algorithms. A comprehensive pipeline including data pre-processing, feature engineering, cross validation, training, and evaluation is designed and implemented to provide the collaborator working in Bio-medicine with highly flexible and accessible tools with simple interfaces.\
 [[website]](https://engineering.nyu.edu/research-innovation/student-research/vertically-integrated-projects/vip-teams/ai-scientific-research)
 
 # Object Detection with Self-Supervised Pre-training, May 2022.
