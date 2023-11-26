@@ -6,7 +6,7 @@ subtitle: Here is a list of projects, finished or ongoing.
 
 # SUffix REtrieval-Augmented Language Modeling (SUREALM) June 2023. <img src="/workflow_new.png" width="150" height="200" align="right" />
 We enhanced autoregressive language modeling with bidirectional knowledge through future context retrieval.\
-[paper]([https://arxiv.org/abs/2211.03053](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10096450))[[code]](https://github.com/Victor-wang-902/SUREALM)
+[[paper]]([https://arxiv.org/abs/2211.03053](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10096450))[[code]](https://github.com/Victor-wang-902/SUREALM)
 
 # Simultaneous Machine Translation with Deep Reinforcement Learning, Jan 2023. <img src="/capstone_workflow.png" width="150" height="200" align="right" />
 We derived a learning algorithm for latency control in simultaneous machine translation using reinforcement learning framework.\
