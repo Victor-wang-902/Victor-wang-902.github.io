@@ -45,7 +45,11 @@ layout: page
           </h3>
         {% endif %}
       </a>
-
+      {% if post.description %}
+        <div class="post-description">
+          {{ post.description | markdownify }}
+        </div>
+      {% endif %}
       <p class="post-meta">
         {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
         Posted on {{ post.date | date: date_format }}
