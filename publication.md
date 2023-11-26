@@ -1,7 +1,7 @@
 ---
 layout: home
 title: My Publications
-subtitle: My list of publications can also be found at Google Scholar by clicking the little icon at the bottom.
+subtitle: My list of publications can also be found on [Google Scholar](https://scholar.google.com/citations?user=z7ZFaCgAAAAJ&hl=en&oi=sra).
 ---
 Z. Wang, C. Wang, Z. Dong, K. Ross, "Pre-training with Synthetic Data Helps Offline Reinforcement Learning," (Submitted to ICLR 2024), 2023.
 [[paper]](https://arxiv.org/abs/2310.00771)
