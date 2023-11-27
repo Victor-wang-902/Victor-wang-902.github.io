@@ -20,7 +20,7 @@ We derived a learning algorithm for latency control in simultaneous machine tran
 We predicted vaccination response of patients using machine learning algorithms. A comprehensive pipeline including data pre-processing, feature engineering, cross validation, training, and evaluation is designed and implemented to provide the collaborator working in Bio-medicine with highly flexible and accessible tools with simple interfaces.\
 [[website]](https://engineering.nyu.edu/research-innovation/student-research/vertically-integrated-projects/vip-teams/ai-scientific-research)
 
-# Object Detection with Self-Supervised Pre-training, May 2022.
+# Object Detection with Self-Supervised Pre-training, May 2022. <img src="/od.png" width="300" height="150" align="right" />
 Course project for [CSCI-GA - 2572 Deep Learning](https://atcold.github.io/pytorch-Deep-Learning/). We used popular SSL methods for pretraining of ResNet-50 as well as Transformer architectures (DETR) and then finetuned detection heads on labeled dataset achieving reasonable performance (ranked top 3 in our class!).\
 [[report]](CSCI_GA_2572_Final_Report.pdf)[[code]](https://github.com/Victor-wang-902/csci-ga-2572-final-project)
 
