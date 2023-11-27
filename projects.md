@@ -4,6 +4,10 @@ title: My Projects
 subtitle: Here is a list of projects, finished or ongoing.
 ---
 
+# Effect of Synthetic Pretraining on Offline Reinforcement Learning, September 2023. <img src="/screenshot20231128.png" width="300" height="150" align="right" />
+We Proposed a simple synthetic pretraining scheme that surpasses language pretraining on offline reinforcement learning. We aim to understand why simple synthetic data can be beneficial in offline RL.\
+[[paper]](https://arxiv.org/abs/2310.00771)
+
 # SUffix REtrieval-Augmented Language Modeling (SUREALM) June 2023. <img src="/workflow_new.png" width="150" height="200" align="right" />
 We enhanced autoregressive language modeling with bidirectional knowledge through future context retrieval.\
 [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10096450)[[code]](https://github.com/Victor-wang-902/SUREALM)
