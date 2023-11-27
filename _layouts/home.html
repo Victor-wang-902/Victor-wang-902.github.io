@@ -41,13 +41,11 @@ layout: page
 
         {% if post.subtitle %}
           <h3 class="post-subtitle">
-          {{ post.subtitle | escape_once }}
+          {{ post.subtitle}}
           </h3>
         {% endif %}
       </a>
-      {% if page.custom_link %}
-        My list of publications can also be found on <a href="{{ page.custom_link_url }}">Google Scholar</a>.
-      {% endif %}
+      
       <p class="post-meta">
         {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
         Posted on {{ post.date | date: date_format }}
